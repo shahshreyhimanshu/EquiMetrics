@@ -1,0 +1,6 @@
+{
+  "name": "EquiMetrics",
+  "description": "Indian Stock Market & Portfolio Analytics platform covering all major listed NSE/BSE equities with multi-parameter stock search, interactive technical charts, options matrix, ratio screeners, macro simulator, AI insights, and read-only broker AA portfolio tracking without buy/sell advice or trading.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
